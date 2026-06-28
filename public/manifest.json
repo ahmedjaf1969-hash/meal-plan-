@@ -1,0 +1,10 @@
+{
+  "name": "My 4-Week Meal Plan",
+  "short_name": "Meal Plan",
+  "description": "Science-backed daily protocol checklist",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#060608",
+  "theme_color": "#060608",
+  "orientation": "portrait"
+}
